@@ -20,14 +20,14 @@
 ### 🔍 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/rafael-bastos-amaral/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/rafaamaral)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/rafaaamaral)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaamaral&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaamaral&layout=compact&theme=radical)
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaaamaral&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaamaral&layout=compact&theme=radical)
 
 ---
 
