@@ -4,9 +4,13 @@
 🚀 Atualmente estudando **Go** e criando soluções escaláveis  
 🗃️ Especialista em **SQL Server**, procedures complexas e otimização de consultas  
 
+💻 **Senior Backend Developer** with over **14 years of experience** in **.NET (C#)**  
+🚀 Currently learning **Go** and building scalable solutions  
+🗃️ Expert in **SQL Server**, complex stored procedures, and query optimization  
+
 ---
 
-### 🛠 Tecnologias & Ferramentas
+### 🛠 Tecnologias & Ferramentas | Technologies & Tools
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
@@ -24,11 +28,12 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub | GitHub Stats
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaaamaral&show_icons=true&theme=radical)
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaaamaral&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaamaral&layout=compact&theme=radical)
 
 ---
 
-> 🌟 *"Sempre aprendendo, sempre melhorando."*
+> 🌟 *Sempre aprendendo, sempre melhorando.*  
+> 🌟 *Always learning, always improving.*
