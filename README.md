@@ -21,7 +21,7 @@
 
 ---
 
-### 🔍 Onde me encontrar
+### 🔍 Onde me encontrar | Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/rafael-bastos-amaral/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/rafaaamaral)
