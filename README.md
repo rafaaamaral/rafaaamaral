@@ -28,12 +28,5 @@
 
 ---
 
-### 📊 Estatísticas do GitHub | GitHub Stats
-
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaaamaral&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaamaral&layout=compact&theme=radical)
-
----
-
 > 🌟 *Sempre aprendendo, sempre melhorando.*  
 > 🌟 *Always learning, always improving.*
